@@ -1,0 +1,5 @@
+Fuses for ATMega8(a)
+
+Low:   E4
+High:  C2
+LB:    3F
