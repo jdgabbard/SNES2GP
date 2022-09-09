@@ -12,7 +12,7 @@ Features include:<br><br>
 -Two Primary Slots<br><br>
 
 Disadvantages:<br><br>
--Appears to suffer from speed problems in some older DOS games. This causes the gamepad to not register movements in some cases.
+-Appears to suffer from speed problems in some older DOS games. This causes the gamepad to not register movements in some cases.<br><br>
 
 ![CONTROLS](https://github.com/jdgabbard/SNES2GP/blob/e0eb6b31fad6c10f955f9a8d0a45470806aeda26/Photos/s2gp.jpg)
 
